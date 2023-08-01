@@ -686,3 +686,7 @@ _注：考虑到技术、社区的成熟度，未来会升级至 vue3.x 版本�
 | dayjs        | 最新版本 |
 | lodash       | 最新版本 |
 | Tailwind.css | 最新版本 |
+
+## License
+
+[MIT © Richard McRichface.](https://github.com/wangyupo/v3s/blob/master/LICENSE)
